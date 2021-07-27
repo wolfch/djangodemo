@@ -1,0 +1,8 @@
+collection_name,collection_alias
+hgraph-core-relations,hgraph-core-relations
+hgraph-concept-ids,hgraph-concept-ids
+hgraph-terms,hgraph-terms-current
+poc-semantic,poc-semantic-current
+poc-autosuggest,poc-autosuggest-current
+poc-spellcheck,poc-spellcheck-current
+poc-hierarchical,poc-hierarchical-current
